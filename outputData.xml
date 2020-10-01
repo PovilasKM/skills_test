@@ -1,0 +1,187 @@
+<decathlon>
+<athlete>
+<name>Real Result</name>
+<place>1</place>
+<totalscore>8869</totalscore>
+<participation>
+<event name="100m">
+<points unit="seconds">10.35</points>
+</event>
+<event name="Long Jump">
+<points unit="meters">8.03</points>
+</event>
+<event name="Shot Put">
+<points unit="meters">14.66</points>
+</event>
+<event name="High Jump">
+<points unit="meters">2.05</points>
+</event>
+<event name="400m">
+<points unit="seconds">46.9</points>
+</event>
+<event name="110 Hurdles">
+<points unit="seconds">13.56</points>
+</event>
+<event name="Discus Throw">
+<points unit="meters">42.53</points>
+</event>
+<event name="Pole Vault">
+<points unit="meters">5.2</points>
+</event>
+<event name="Javelin Throw">
+<points unit="meters">61.96</points>
+</event>
+<event name="1500m">
+<points unit="seconds">273.59000000000003</points>
+</event>
+</participation>
+</athlete>
+<athlete>
+<name>Siim Susi</name>
+<place>2</place>
+<totalscore>4200</totalscore>
+<participation>
+<event name="100m">
+<points unit="seconds">12.61</points>
+</event>
+<event name="Long Jump">
+<points unit="meters">5.0</points>
+</event>
+<event name="Shot Put">
+<points unit="meters">9.22</points>
+</event>
+<event name="High Jump">
+<points unit="meters">1.5</points>
+</event>
+<event name="400m">
+<points unit="seconds">60.39</points>
+</event>
+<event name="110 Hurdles">
+<points unit="seconds">16.43</points>
+</event>
+<event name="Discus Throw">
+<points unit="meters">21.6</points>
+</event>
+<event name="Pole Vault">
+<points unit="meters">2.6</points>
+</event>
+<event name="Javelin Throw">
+<points unit="meters">35.81</points>
+</event>
+<event name="1500m">
+<points unit="seconds">325.72</points>
+</event>
+</participation>
+</athlete>
+<athlete>
+<name>Jaana Lind</name>
+<place>3</place>
+<totalscore>3494</totalscore>
+<participation>
+<event name="100m">
+<points unit="seconds">13.75</points>
+</event>
+<event name="Long Jump">
+<points unit="meters">4.84</points>
+</event>
+<event name="Shot Put">
+<points unit="meters">10.12</points>
+</event>
+<event name="High Jump">
+<points unit="meters">1.5</points>
+</event>
+<event name="400m">
+<points unit="seconds">68.44</points>
+</event>
+<event name="110 Hurdles">
+<points unit="seconds">19.18</points>
+</event>
+<event name="Discus Throw">
+<points unit="meters">30.85</points>
+</event>
+<event name="Pole Vault">
+<points unit="meters">2.8</points>
+</event>
+<event name="Javelin Throw">
+<points unit="meters">33.88</points>
+</event>
+<event name="1500m">
+<points unit="seconds">382.75</points>
+</event>
+</participation>
+</athlete>
+<athlete>
+<name>Beata Kana</name>
+<place>4</place>
+<totalscore>3199</totalscore>
+<participation>
+<event name="100m">
+<points unit="seconds">13.04</points>
+</event>
+<event name="Long Jump">
+<points unit="meters">4.53</points>
+</event>
+<event name="Shot Put">
+<points unit="meters">7.79</points>
+</event>
+<event name="High Jump">
+<points unit="meters">1.55</points>
+</event>
+<event name="400m">
+<points unit="seconds">64.72</points>
+</event>
+<event name="110 Hurdles">
+<points unit="seconds">18.74</points>
+</event>
+<event name="Discus Throw">
+<points unit="meters">24.2</points>
+</event>
+<event name="Pole Vault">
+<points unit="meters">2.4</points>
+</event>
+<event name="Javelin Throw">
+<points unit="meters">28.2</points>
+</event>
+<event name="1500m">
+<points unit="seconds">410.76</points>
+</event>
+</participation>
+</athlete>
+<athlete>
+<name>Anti Loop</name>
+<place>5</place>
+<totalscore>3099</totalscore>
+<participation>
+<event name="100m">
+<points unit="seconds">13.43</points>
+</event>
+<event name="Long Jump">
+<points unit="meters">4.35</points>
+</event>
+<event name="Shot Put">
+<points unit="meters">8.64</points>
+</event>
+<event name="High Jump">
+<points unit="meters">1.5</points>
+</event>
+<event name="400m">
+<points unit="seconds">66.06</points>
+</event>
+<event name="110 Hurdles">
+<points unit="seconds">19.05</points>
+</event>
+<event name="Discus Throw">
+<points unit="meters">24.89</points>
+</event>
+<event name="Pole Vault">
+<points unit="meters">2.2</points>
+</event>
+<event name="Javelin Throw">
+<points unit="meters">33.48</points>
+</event>
+<event name="1500m">
+<points unit="seconds">411.01</points>
+</event>
+</participation>
+</athlete>
+</decathlon>
