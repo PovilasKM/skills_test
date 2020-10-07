@@ -10,10 +10,6 @@ import java.util.ArrayList;
 
 import static org.junit.Assert.assertEquals;
 
-/**
- * @author Mindaugas Jaunius
- */
-
 public class PlaceSorterTest {
 
     PlaceSorter placeSorter;
