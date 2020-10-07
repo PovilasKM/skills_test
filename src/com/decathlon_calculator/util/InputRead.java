@@ -6,9 +6,6 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.util.ArrayList;
 
-/**
- * @author Mindaugas Jaunius
- */
 public class InputRead {
 
     public ArrayList<String> getContents(File aFile) {
