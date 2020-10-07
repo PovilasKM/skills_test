@@ -1,8 +1,5 @@
 package com.decathlon_calculator.model;
 
-/**
- * @author Mindaugas Jaunius
- */
 public class Result {
     private String name;
     private double meters;
