@@ -5,9 +5,6 @@ import java.util.ArrayList;
 import com.decathlon_calculator.model.Athlete;
 import com.decathlon_calculator.model.Result;
 
-/**
- * @author Mindaugas Jaunius
- */
 public class PointsCounter {
 
 
