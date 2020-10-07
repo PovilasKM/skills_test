@@ -2,9 +2,6 @@ package com.decathlon_calculator.model;
 
 import java.util.ArrayList;
 
-/**
- * @author Mindaugas Jaunius
- */
 public class Athlete implements Comparable<Athlete>{
 
     private String name;
