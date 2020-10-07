@@ -6,9 +6,6 @@ import java.util.regex.Pattern;
 import com.decathlon_calculator.model.Athlete;
 import com.decathlon_calculator.model.Result;
 
-/**
- * @author Mindaugas Jaunius
- */
 public class CSVParser {
 
     private final String VALUE_SEPARATOR = ";";
