@@ -5,9 +5,6 @@ import java.util.Collections;
 
 import com.decathlon_calculator.model.Athlete;
 
-/**
- * @author Mindaugas Jaunius
- */
 public class PlaceSorter {
 
 
