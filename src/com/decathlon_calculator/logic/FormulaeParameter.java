@@ -1,7 +1,6 @@
 package com.decathlon_calculator.logic;
 
 /**
- * @author Mindaugas Jaunius
  *
  * This class represents parameter object whichs values is used in formulae to calculate points.
  */
