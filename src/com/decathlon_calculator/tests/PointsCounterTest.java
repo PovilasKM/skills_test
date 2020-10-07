@@ -11,9 +11,6 @@ import java.util.ArrayList;
 
 import static org.junit.Assert.assertEquals;
 
-/**
- * @author Mindaugas Jaunius
- */
 public class PointsCounterTest {
 
     private ArrayList<Athlete> athletesBeforeCount;
