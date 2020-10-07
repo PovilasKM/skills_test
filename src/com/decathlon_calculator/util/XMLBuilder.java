@@ -24,9 +24,6 @@ import org.w3c.dom.Element;
 import com.decathlon_calculator.model.Result;
 import com.decathlon_calculator.model.Athlete;
 
-/**
- * @author Mindaugas Jaunius
- */
 public class XMLBuilder {
 
     private static final String XML_VERSION = "1.0";
