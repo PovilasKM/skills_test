@@ -11,7 +11,6 @@ import com.decathlon_calculator.util.XMLBuilder;
 import com.decathlon_calculator.util.CSVParser;
 
 /**
- * @author Mindaugas Jaunius
  *
  * This class acts as a bridge between application GUI and logic
  */
